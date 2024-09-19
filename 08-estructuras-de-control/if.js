@@ -10,8 +10,10 @@
 
 // else if -> Entonces si
 
-let nombre = "Diego"
+let nombre = "Pablo"
 
 if (nombre == "Diego") {
     console.log("Hola Diego")
+} else {
+    console.log("Nombre no encontrado")
 }
